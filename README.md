@@ -19,9 +19,6 @@ To get started, clone the repository to your local machine:
 ```
 git clone https://github.com/thirdweb-example/youtube-erc20-staking.git
 ```
-```
-cd youtube-erc20-staking
-```
 
 
 ### Installing Dependencies
